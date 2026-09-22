@@ -1,4 +1,4 @@
-# IT-Kamianets 3D Engine — Unity Core
+# IT-Kamianets 3D Engine: Unity Core
 
 `3d-unity-core` is the foundation package for Unity applications built on the **IT-Kamianets 3D Engine**.
 
