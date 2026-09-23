@@ -1,0 +1,16 @@
+{
+  "name": "com.itkamianets.3d-unity-core",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: Unity Core",
+  "description": "Shared runtime foundation for Unity applications built on the IT-Kamianets 3D Engine: configuration, service architecture, events, logging, and common abstractions. Product-independent — contains no VRoom-, racing-, or game-specific functionality.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets"
+  ],
+  "dependencies": {}
+}
